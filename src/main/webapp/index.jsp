@@ -9,7 +9,7 @@
 <body>
 <img alt="test" src="upper_logo.jpg">
 
-<h2>How are you today?</h2>
+<h2>He, how are you today?</h2>
 
 <%= new java.util.Date()%>
 
